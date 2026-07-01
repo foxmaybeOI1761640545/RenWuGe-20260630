@@ -1,0 +1,4 @@
+标题：第 3 个任务
+创建时间：2026/7/1 19:33:45
+
+向用户说明github链接需是目标仓库目标分支的链接，然后识别分支需要注意“codex/2026-07-01/10-39-53-utc/fix-empty-task-handling-and-navigation”这种情况，用户提供“https://github.com/foxmaybeOI1761640545/codexTest-202606221153/tree/codex/2026-07-01/10-39-53-utc/fix-empty-task-handling-and-navigation”不能只识别“codex”。
