@@ -1,0 +1,8 @@
+标题：第 2 个任务
+创建时间：2026/7/1 22:08:31
+
+关联 GitHub 仓库：https://github.com/foxmaybeOI1761640545/codexTest-202606221153
+目标分支：codex/2026-06-29/18-39-36-utc/apkreleases
+原始 GitHub 链接：https://github.com/foxmaybeOI1761640545/codexTest-202606221153/tree/codex/2026-06-29/18-39-36-utc/apkreleases
+
+在设置部分进行安卓侧滑的退出操作时，返回上一个页面，而不是直接回到桌面。另外两个页面进行退出操作则直接回到桌面。
