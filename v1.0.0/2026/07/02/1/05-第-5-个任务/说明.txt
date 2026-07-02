@@ -1,0 +1,8 @@
+标题：第 5 个任务
+创建时间：2026/7/2 18:58:21
+
+关联 GitHub 仓库：https://github.com/foxmaybeOI1761640545/codexTest-202606221153
+目标分支：codex/2026-06-29/18-39-36-utc/apkreleases
+原始 GitHub 链接：https://github.com/foxmaybeOI1761640545/codexTest-202606221153/tree/codex/2026-06-29/18-39-36-utc/apkreleases
+
+当前依旧没有实现全局弹窗，只有点击悬浮通知的时候才会弹出弹窗。我的要求是直接弹出悬浮通知以及全局弹窗。

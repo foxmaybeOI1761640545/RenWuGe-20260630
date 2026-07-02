@@ -1,0 +1,8 @@
+标题：第 2 个任务
+创建时间：2026/7/2 18:58:21
+
+关联 GitHub 仓库：https://github.com/foxmaybeOI1761640545/codexTest-202606221153
+目标分支：codex/2026-06-29/18-39-36-utc/apkreleases
+原始 GitHub 链接：https://github.com/foxmaybeOI1761640545/codexTest-202606221153/tree/codex/2026-06-29/18-39-36-utc/apkreleases
+
+当前在两个部分的设置页面使用安卓返回键的时候，依旧是直接回到桌面，我的需求是返回上一个页面。
